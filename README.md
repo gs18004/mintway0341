@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintway0341&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs18004&layout=compact"><br><br>
 
 ## Education
 - Korea University
